@@ -21,7 +21,7 @@ I have hands-on experience in building dashboards, analyzing datasets, and deriv
 - Delivered insights to improve operational efficiency  
 
 🔗 **Project Link:**  
-[](https://github.com/yashwaingankar-sudo/AI-Based-Manufacturing-Efficiency-Dashboard.)
+[https://github.com/yashwaingankar-sudo/AI-Based-Manufacturing-Efficiency-Dashboard](https://github.com/yashwaingankar-sudo/AI-Based-Manufacturing-Efficiency-Dashboard.)
 
 ---
 
@@ -33,7 +33,7 @@ I have hands-on experience in building dashboards, analyzing datasets, and deriv
 - Provided actionable recommendations to reduce attrition  
 
 🔗 **Project Link:**  
-[](https://github.com/yashwaingankar-sudo/HR-Attrition-Analysis-)
+[https://github.com/yashwaingankar-sudo/HR-Attrition-Analysis](https://github.com/yashwaingankar-sudo/HR-Attrition-Analysis-)
 
 ---
 
