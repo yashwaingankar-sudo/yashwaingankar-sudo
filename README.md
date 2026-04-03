@@ -40,7 +40,8 @@ https://github.com/yashwaingankar-sudo/HR-Attrition-Analysis
 ## 🛠 Skills
 - Power BI  
 - Excel  
-- SQL 
+- SQL
+- Tableu
 - Data Analysis  
 - Data Visualization  
 
