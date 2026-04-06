@@ -47,6 +47,14 @@ I have hands-on experience in building dashboards, analyzing datasets, and deriv
 
 ---
 
+## 📜 Certifications
+- Microsoft Business Analyst Specialization – Microsoft  
+  (Power BI, Excel, Process Modeling, Requirements Gathering)
+
+- SQL for Data Science – University of California, Davis
+
+---
+
 ## 📈 What I Bring
 - Strong analytical thinking  
 - Ability to translate data into business insights  
